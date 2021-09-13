@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.eb0d0a2d.chunk.css",
-    "main.js": "/myPortfolio/static/js/main.6077aedf.chunk.js",
-    "main.js.map": "/myPortfolio/static/js/main.6077aedf.chunk.js.map",
-    "runtime-main.js": "/myPortfolio/static/js/runtime-main.b0886c16.js",
-    "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.b0886c16.js.map",
-    "static/css/2.27dd871e.chunk.css": "/myPortfolio/static/css/2.27dd871e.chunk.css",
-    "static/js/2.b0261483.chunk.js": "/myPortfolio/static/js/2.b0261483.chunk.js",
-    "static/js/2.b0261483.chunk.js.map": "/myPortfolio/static/js/2.b0261483.chunk.js.map",
-    "index.html": "/myPortfolio/index.html",
-    "static/css/2.27dd871e.chunk.css.map": "/myPortfolio/static/css/2.27dd871e.chunk.css.map",
-    "static/css/main.eb0d0a2d.chunk.css.map": "/myPortfolio/static/css/main.eb0d0a2d.chunk.css.map",
-    "static/js/2.b0261483.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.b0261483.chunk.js.LICENSE.txt",
-    "static/media/ShikhaGoyal_Resume.26a19719.pdf": "/myPortfolio/static/media/ShikhaGoyal_Resume.26a19719.pdf",
-    "static/media/aspnet.d1316892.jpg": "/myPortfolio/static/media/aspnet.d1316892.jpg",
-    "static/media/MainSection.css": "/myPortfolio/static/media/main_section.32d605ac.jpg",
-    "static/media/mern.88c11749.png": "/myPortfolio/static/media/mern.88c11749.png"
+    "main.css": "/portfolio/static/css/main.8f393170.chunk.css",
+    "main.js": "/portfolio/static/js/main.6077aedf.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6077aedf.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.21fd939e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.21fd939e.js.map",
+    "static/css/2.27dd871e.chunk.css": "/portfolio/static/css/2.27dd871e.chunk.css",
+    "static/js/2.a36c6df8.chunk.js": "/portfolio/static/js/2.a36c6df8.chunk.js",
+    "static/js/2.a36c6df8.chunk.js.map": "/portfolio/static/js/2.a36c6df8.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/portfolio/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.8f393170.chunk.css.map": "/portfolio/static/css/main.8f393170.chunk.css.map",
+    "static/js/2.a36c6df8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a36c6df8.chunk.js.LICENSE.txt",
+    "static/media/ShikhaGoyal_Resume.26a19719.pdf": "/portfolio/static/media/ShikhaGoyal_Resume.26a19719.pdf",
+    "static/media/aspnet.d1316892.jpg": "/portfolio/static/media/aspnet.d1316892.jpg",
+    "static/media/MainSection.css": "/portfolio/static/media/main_section.32d605ac.jpg",
+    "static/media/mern.88c11749.png": "/portfolio/static/media/mern.88c11749.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0886c16.js",
+    "static/js/runtime-main.21fd939e.js",
     "static/css/2.27dd871e.chunk.css",
-    "static/js/2.b0261483.chunk.js",
-    "static/css/main.eb0d0a2d.chunk.css",
+    "static/js/2.a36c6df8.chunk.js",
+    "static/css/main.8f393170.chunk.css",
     "static/js/main.6077aedf.chunk.js"
   ]
 }
